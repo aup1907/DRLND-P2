@@ -7,7 +7,7 @@ For this project, I have worked with the [Reacher](https://github.com/Unity-Tech
 
 To be able to solve the environment, I have implemented DDPG based agent using the code provided in the lessons.  Interaction with the training environment is changed from gym to Unity. Following is the result of the training after 114 episodes. Agent was able to reach avarege score of 32.
 
-![scores](./FinalScores.png)
+![scores](./FinalScores.PNG)
 
 Video of the agent playing the game can be found [here](./demo3.wmv)
 
